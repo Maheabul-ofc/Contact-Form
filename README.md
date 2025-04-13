@@ -171,12 +171,13 @@ You can:
 ### 🔒 Recommended Enhancements
 
 - **Input Sanitization**: Prevent XSS (Cross-site Scripting) by sanitizing user inputs.
-     ```bash
-      npm install sanitize-html
+
+       ```bash
+   npm install sanitize-html
+     
 
 
      ```js
-         
      const sanitizeHtml = require('sanitize-html');
      const cleanMessage = sanitizeHtml(req.body.message);
 
