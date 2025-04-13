@@ -71,12 +71,12 @@ A simple Node.js project that provides a contact form for users to send messages
    ```bash
    node server.js
 If everything is set up correctly, you’ll see:
+```bash
+🚀 Server running at http://localhost:3000
 
-   ```bash
- 🚀 Server running at http://localhost:3000
 
-
-## 📸 Screenshot
+---
+### 📸 Screenshot
 
 Here’s what the contact form looks like:
 
