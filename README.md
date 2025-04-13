@@ -110,7 +110,7 @@ You’ll receive an email at your configured Gmail address with:
 ---
 
 ## 📁 File Structure
-      ```bash
+
       contact-form/
         ├── index.html        # Main HTML file with the contact form structure
         ├── styles.css        # Separate CSS file for styling (gradients, animations, responsive design)
