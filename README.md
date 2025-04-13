@@ -189,7 +189,7 @@ Prevent spam or abuse by limiting how often the form can be submitted.
 
 ```bash
 npm install express-rate-limit
-
+   ```
 
 ```js
 
@@ -201,13 +201,13 @@ const limiter = rateLimit({
 });
 
 app.use('/contact', limiter);
-
+```
 - `HTTPS`: For production, always use HTTPS to encrypt form submissions. This can be set up using services like Let’s Encrypt or handled by your hosting provider.
 
 
 ```vbnet
 Let me know if you'd like me to expand any example or tailor it to your specific use case!
-
+```
 
 ## 🚀 Deployment
 
@@ -241,7 +241,7 @@ Deploy this project using platforms like **Render**, **Heroku**, **Vercel**, or 
 
 fetch('https://your-deployed-domain.com/contact')
 
-
+```
  4. **Deploy**:
 
 Follow your platform's deployment steps.
@@ -310,17 +310,18 @@ Contributions are welcome!
 2. Create a new branch:
   ```bash
 git checkout -b feature/your-feature-name
-
+```
 3. Make your changes and commit:
    ```bash
-git commit -m "Add new feature"
+   git commit -m "Add new feature"
 
 4. Push to your fork:
   ```bash
 git push origin feature/your-feature-name
 
+```
 
- 5. Open a Pull Request
+5. Open a Pull Request
 
 To contribute, please follow these steps:
 
@@ -336,11 +337,10 @@ You can also report bugs or request features via [Issues](<your-repository-url>/
 
 ## 📬 Contact
 
-Created by **[Your Name]**  
+Created by **[Mahea Bul]**  
 For questions, feedback, or collaboration, feel free to:
 
 - Use the [contact form](http://localhost:3000)
-- Or email me directly at [your-email@example.com](mailto:your-email@example.com)
+- Or email me directly at [maheabulwork@gmail.com](mailto:maheabulwork@gmail.com)
 
-> Replace with your actual name and email if publishing publicly.
 
