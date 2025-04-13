@@ -133,10 +133,10 @@ You’ll receive an email at your configured Gmail address with:
 - Modify spinner styles or alert message gradients
 
 Example:
-```css
-.spinner {
-  border: 3px solid #2e6b2e; /* Makes the spinner green */
-}
+    ```css
+    .spinner {
+    border: 3px solid #2e6b2e; /* Makes the spinner green */
+    }
 
 ## Form Behavior (`main.js`)
 
@@ -146,7 +146,6 @@ Example:
 
 
 ## Example:
-
 ```js
 // To reset instead of clearing form on success
 contactForm.reset(); // instead of formContainer.innerHTML = ''
