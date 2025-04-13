@@ -110,18 +110,18 @@ You’ll receive an email at your configured Gmail address with:
 ---
 
 ## 📁 File Structure
-
-contact-form/
-├── index.html        # Main HTML file with the contact form structure
-├── styles.css        # Separate CSS file for styling (gradients, animations, responsive design)
-├── main.js           # Client-side JavaScript for form submission, validation, and UI feedback
-├── server.js         # Node.js/Express backend to serve files and send emails
-├── .env              # Environment variables for email credentials (not committed)
-├── .gitignore        # Ignores node_modules and .env
-├── package.json      # Project metadata and dependencies
-├── package-lock.json # Locks dependency versions for consistent installs
-├── README.md         # This documentation file
-└── screenshot.png # Project screenshot
+      ```bash
+      contact-form/
+        ├── index.html        # Main HTML file with the contact form structure
+        ├── styles.css        # Separate CSS file for styling (gradients, animations, responsive design)
+        ├── main.js           # Client-side JavaScript for form submission, validation, and UI feedback
+        ├── server.js         # Node.js/Express backend to serve files and send emails
+        ├── .env              # Environment variables for email credentials (not committed)
+        ├── .gitignore        # Ignores node_modules and .env
+        ├── package.json      # Project metadata and dependencies
+        ├── package-lock.json # Locks dependency versions for consistent installs
+        ├── README.md         # This documentation file
+        └── screenshot.png # Project screenshot
 
 
 ---
