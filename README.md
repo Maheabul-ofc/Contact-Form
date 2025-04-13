@@ -340,7 +340,6 @@ You can also report bugs or request features via [Issues](<your-repository-url>/
 Created by **[Mahea Bul]**  
 For questions, feedback, or collaboration, feel free to:
 
-- Use the [contact form](http://localhost:3000)
 - Or email me directly at [maheabulwork@gmail.com](mailto:maheabulwork@gmail.com)
 
 
