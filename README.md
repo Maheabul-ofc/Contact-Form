@@ -146,7 +146,6 @@ Example:
 
 
 ## Example:
-    ```js
     // To reset instead of clearing form on success
     contactForm.reset(); // instead of formContainer.innerHTML = ''
 
@@ -172,11 +171,12 @@ You can:
 ### 🔒 Recommended Enhancements
 
 - **Input Sanitization**: Prevent XSS (Cross-site Scripting) by sanitizing user inputs.
-     ````bash
+     ```bash
       npm install sanitize-html
 
 
-   ```js
+     ```js
+         
      const sanitizeHtml = require('sanitize-html');
      const cleanMessage = sanitizeHtml(req.body.message);
 
